@@ -1,4 +1,4 @@
-# analyseAccessLog (analyzer)
+# analyseAccessLog (log_analyzer)
 Analyse acces log on web-server
 
 
