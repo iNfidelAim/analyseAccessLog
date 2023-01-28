@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="analyzer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/analyzer_jar</output-path>
+    <root id="archive" name="analyzer.jar">
+      <element id="module-output" name="analyzer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.4/commons-cli-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.11/logback-classic-1.2.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/modelmapper/modelmapper/2.3.5/modelmapper-2.3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.11/logback-core-1.2.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
