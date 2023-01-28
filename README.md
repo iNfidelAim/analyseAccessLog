@@ -33,15 +33,21 @@ Analyse acces log on web-server
 ##### Пример использования:
 ```
 
-* TODO
+ java -jar analyzer.jar -a 90.0 -t 30 -f access.log
+
+ cat access.log | java -jar analyzer.jar    //Options
+
+ cat access.log | java -jar analyzer.jar -a 90.0 -t 30
+
+
 
 ```
 
 
 ##### Пример вывода:
 ```
-* TODO 
-  
+14/06/2023:16:47:04 14/06/2025:16:47:04 69
+14/06/2023:16:47:04 14/06/2025:16:47:04 69
   
 ```
 
